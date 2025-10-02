@@ -1,0 +1,26 @@
+2025-10-02 14:37:39,139 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.backend.piping.pipe(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2025-10-02 14:37:39,144 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.backend.rendering.render(['renderer', 'formatter', 'neato_no_op', 'quiet'])
+2025-10-02 14:37:39,146 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.backend.unflattening.unflatten(['stagger', 'fanout', 'chain', 'encoding'])
+2025-10-02 14:37:39,146 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.backend.viewing.view(['quiet'])
+2025-10-02 14:37:39,152 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.quoting.quote(['is_html_string', 'is_valid_id', 'dot_keywords', 'endswith_odd_number_of_backslashes', 'escape_unescaped_quotes'])
+2025-10-02 14:37:39,153 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.quoting.a_list(['kwargs', 'attributes'])
+2025-10-02 14:37:39,153 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.quoting.attr_list(['kwargs', 'attributes'])
+2025-10-02 14:37:39,153 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.dot.Dot.clear(['self', 'keep_attrs'])
+2025-10-02 14:37:39,153 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.dot.Dot.__iter__(['self', 'subgraph'])
+2025-10-02 14:37:39,153 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.dot.Dot.node(['label', '_attributes'])
+2025-10-02 14:37:39,154 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.dot.Dot.edge(['label', '_attributes'])
+2025-10-02 14:37:39,154 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.dot.Dot.attr(['kw', '_attributes'])
+2025-10-02 14:37:39,154 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.dot.Dot.subgraph(['graph', 'name', 'comment', 'graph_attr', 'node_attr', 'edge_attr', 'body'])
+2025-10-02 14:37:39,159 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.piping.Pipe._pipe_legacy(['format', 'renderer', 'formatter', 'neato_no_op', 'quiet'])
+2025-10-02 14:37:39,160 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.saving.Save.save(['filename', 'directory'])
+2025-10-02 14:37:39,160 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.rendering.Render.render(['filename', 'directory', 'view', 'cleanup', 'format', 'renderer', 'formatter', 'neato_no_op', 'quiet', 'quiet_view'])
+2025-10-02 14:37:39,161 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.rendering.Render.view(['filename', 'directory', 'cleanup', 'quiet', 'quiet_view'])
+2025-10-02 14:37:39,161 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.unflattening.Unflatten.unflatten(['self', 'stagger', 'fanout', 'chain'])
+2025-10-02 14:37:39,161 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.graphs.BaseGraph.__init__(['name', 'comment', 'filename', 'directory', 'format', 'engine', 'encoding', 'graph_attr', 'node_attr', 'edge_attr', 'body', 'strict'])
+2025-10-02 14:37:39,165 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.sources.Source.from_file(['filename', 'directory', 'format', 'engine', 'encoding', 'renderer', 'formatter'])
+2025-10-02 14:37:39,166 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.sources.Source.__init__(['source', 'filename', 'directory', 'format', 'engine', 'encoding'])
+2025-10-02 14:37:39,166 | [36m🔍 DEBUG[0m | 📋 graphviz._tools    | decorator      :160  | deprecate positional args: graphviz.sources.Source.save(['filename', 'directory'])
+2025-10-02 14:37:41,591 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 7 to 5
+2025-10-02 14:37:41,596 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 5 to 7
+2025-10-02 14:37:41,596 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 7 to 5
+2025-10-02 14:37:41,596 | [36m🔍 DEBUG[0m | 📋 h5py._conv         | <module>       :47   | Creating converter from 5 to 7
